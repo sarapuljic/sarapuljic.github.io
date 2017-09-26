@@ -1,0 +1,99 @@
+header, section, footer, aside, nav, main, article, figure {
+     
+}
+
+body{
+	background-color: #4682B4;
+	margin: 0;
+	
+	
+}
+
+div{
+	
+}
+
+.main-page{
+	margin: 12px 12px;
+	width: auto;
+	height: 1200px;
+	
+}
+
+.left-main-container{
+	height: 1100px;
+	width: 400px;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	float:left;
+	padding: 0px 10px;
+	
+}
+
+.left-main-container-photo{
+	background-color: #DFE3EE;
+	width: 100%;
+	height: 400px;
+
+}
+
+.name{
+	padding:10px 20px;
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+h1{
+	color: #223A5E;
+	font-family: Garamond;
+	
+}
+
+.left-container-skills-info-and-skills{
+	font-family: Garamond;
+	padding: 20px 15px;
+	margin: 0px;
+	font-size: 20px;
+
+}
+
+.material-icons{
+	padding-left:10px;
+}
+
+.progress-bar-outside{
+	height: 24px;
+    width: 350px;
+	background-color: #92B6D5;
+	border-radius: 16px;
+	margin-left: 15px;
+}
+
+.progress-bar-inside{
+	height: 24px;
+	width: 300px;
+	background-color: #223A5E;
+	border-radius: 16px;
+}
+
+.middle-education-container{
+	height: 500px;
+	width: 695px;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	float:right;
+	padding: 0px 10px;
+	
+}
+
+
+.middle-work-container{
+	height: 580px;
+	width: 695px;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	float:right;
+	padding: 0px 10px;
+	margin: 20px 0px;
+}
