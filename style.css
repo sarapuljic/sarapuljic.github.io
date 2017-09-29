@@ -1,0 +1,122 @@
+header, section, footer, aside, nav, main, article, figure {
+     box-sizing: border-box;
+}
+
+html{
+	display: block;
+}
+
+body{
+	background-color: #4682B4;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	
+	
+}
+
+div{
+	
+}
+
+.main-page{
+	margin: 12px 12px;
+	height: auto;
+	box-sizing: border-box;
+	
+}
+
+.left-main-container{
+	height: auto;
+	width: 30%;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	padding: 0px 10px;
+	float: left;
+	box-sizing: border-box;
+	
+	
+}
+
+
+.left-main-container-photo{
+	background-color: #DFE3EE;
+	width: auto;
+	height: auto;
+	box-sizing: border-box;
+
+}
+
+.left-container-skills-info-and-skills{
+	font-family: Garamond;
+	padding: 20px 15px;
+	margin: 0px;
+	font-size: 20px;
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+.middle-education-container{
+	height: auto;
+	width: 65%;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	padding: 0px 10px;
+	float: right;
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+.middle-work-container{
+	height: auto;
+	width: 65%;
+	background-color: #DFE3EE;
+	box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 2, 0.50); /*proucit*/
+	padding: 0px 10px;
+	margin: 20px 0px;
+	float: right;
+	box-sizing: border-box;
+	overflow: auto;
+}
+
+
+.name{
+	padding:10px 20px;
+	text-align: center;
+	font-size: 15px;
+	box-sizing: border-box;
+}
+
+h1{
+	color: #223A5E;
+	font-family: Garamond;
+	box-sizing: border-box;
+}
+
+
+
+.material-icons{
+	padding-left:10px;
+	box-sizing: border-box;
+}
+
+.progress-bar-outside{
+	height: 25px;
+    width: 170px;
+	background-color: #92B6D5;
+	border-radius: 16px;
+	margin-left: 15px;
+	box-sizing: border-box;
+}
+
+.progress-bar-inside{
+	height: 25px;
+	background-color: #223A5E;
+	border-radius: 16px;
+	box-sizing: border-box;
+}
+
+
+
+
