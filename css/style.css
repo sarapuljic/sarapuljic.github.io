@@ -134,10 +134,12 @@ h1{
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    [class*="left-container-skills-info-and-skills"] {
+    .middle-education-container{
         width: 100%;
-    }
-
-
+	}
+	.middle-work-container{
+		width: 100%;
+	}
+}
 
 
